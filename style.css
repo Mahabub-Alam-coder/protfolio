@@ -1,0 +1,18 @@
+body{
+    font-family: 'Odibee Sans',sans-serif ;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.intro-half{
+    width: 40%;
+    float: left;
+    margin-left:5% ;
+    padding-left: 2%;
+}
+.intro-half img{
+    width: 100%;
+}
