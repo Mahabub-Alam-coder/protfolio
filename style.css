@@ -1,5 +1,6 @@
 body{
-    font-family: 'Odibee Sans',sans-serif ;
+    margin: 0px;
+    /*font-family: 'Odibee Sans',sans-serif ;*/
 }
 h1{
     font-size: 50px;
@@ -15,4 +16,19 @@ h1{
 }
 .intro-half img{
     width: 100%;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
 }
